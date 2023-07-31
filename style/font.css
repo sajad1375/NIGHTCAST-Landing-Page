@@ -1,0 +1,16 @@
+@font-face{
+    font-family:gill ;
+    src: url(../fonts/GILLUBCD.TTF) format('truetype');
+}
+@font-face{
+    font-family:sanreg ;
+    src: url(../fonts/Sansation_Regular.ttf) format('truetype');
+}
+@font-face{
+    font-family:sanlight ;
+    src: url(../fonts/Sansation_Light.ttf) format('truetype');
+}
+@font-face{
+    font-family:sanbold ;
+    src: url(../fonts/Sansation_Bold.ttf) format('truetype');
+}
